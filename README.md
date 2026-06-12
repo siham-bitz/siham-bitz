@@ -1,6 +1,6 @@
 ## HI, I'm siham💫
 👩‍💻software engineering student at dire dawa university 
-🧠I'm currently on: Academic and personal software projects 
+🧠I'm currently working on: Academic and personal software projects 
 I'm currently learning: Data structure and algorithm, object oriented programming, Databases, Git & GitHub, web development 
 
 ## 🌐 Socials:
